@@ -4,6 +4,7 @@
 I am junior developer passionate about technology but above all learning new technologies and solving problems. I love seeing the result of what I create and demonstrating my ability as a future software engineer. I have an incredible hunger to grow and you will see that demonstrated here in my repository
 
 - 💬 Ask me about: HTML5, CCS3, ES6, ReactJS, NextJS, TailwindCSS, Styled Components
+- 📕 Basic notions: Strapi, MaterialUI
 - 🎮 Hobbies: Playing videogames and listening to audiobooks (I also love green tea 🍃)
 - 📚 Learning: javascript at its finest!
 
